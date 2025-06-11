@@ -28,12 +28,10 @@ You can change the saved model and log file names by modifying the --ext_num par
 4. Testing and Evaluation
 
 ```
-```
-
-```
 ``` 
 ### Clone this repository
 ```
+git clone https://github.com/sanatonek/HDP-Flow.git
 ```
 
 ## Citation
