@@ -22,15 +22,12 @@ pip install -r requirements.txt
 The dataset-specific model parameters are defined in the [config file](experiment_config.ini), where you can add your datasets and specify the desired training paradigm. You can train the model using a command like the following:
 
 ```
+python main.py --data sim_easy --train
 ```
 
 You can use the `--cont` flag to continue training the model from the last saved checkpoint.
 Evaluation is automatically performed immediately after training completes.
 
-4. Testing and Evaluation
-
-```
-``` 
 ### Clone this repository
 ```
 git clone https://github.com/sanatonek/HDP-Flow.git
