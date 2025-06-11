@@ -17,13 +17,15 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Training the Model
+3. Training the Model:
+
 The dataset-specific model parameters are defined in the [config file](experiment_config.ini), where you can add your datasets and specify the desired training paradigm. You can train the model using a command like the following:
 
 ```
 ```
 
 You can use the `--cont` flag to continue training the model from the last saved checkpoint.
+Evaluation is automatically performed immediately after training completes.
 
 4. Testing and Evaluation
 
