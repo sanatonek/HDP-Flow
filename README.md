@@ -2,9 +2,9 @@
 
 HDP-Flow is a Bayesian nonparametric model that combines normalizing flows with scalable variational inference to uncover evolving latent states in non-stationary time series. The code in this repo enables efficient, unsupervised state discovery and demonstrates strong performance and transferability across diverse real-world datasets. For more details, please refer to our paper []().
 
-<p align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 12px;">
-  <img src="Screenshot 2025-07-18 at 4.51.01 PM.png" alt="HDP-Flow Overview" width="600" style="border: 1px solid #444; border-radius: 8px;">
-</p>
+<div align="center" style="background-color: #1e1e1e; padding: 20px; border-radius: 10px;">
+  <img src="HDPFlow.png" alt="HDP-Flow Overview" width="600" style="border: 1px solid #444; border-radius: 8px;">
+</div>
 
 ## Prerequisites
 
