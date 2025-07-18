@@ -38,6 +38,9 @@ git clone https://github.com/sanatonek/HDP-Flow.git
 ```
 
 ## Citation
+If you use this code or find our work helpful, please cite:
+
+```bibtex
 @inproceedings{tonekabonihdp,
   title={HDP-Flow: Generalizable Bayesian Nonparametric Model for Time Series State Discovery},
   author={Tonekaboni, Sana and Behrouzi, Tina and Weatherhead, Addison and Fox, Emily and Blei, David and Goldenberg, Anna},
